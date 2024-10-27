@@ -1,0 +1,10 @@
+[script]
+name = "wr_official"
+version = "9.9.9"
+author_ids = ["skulls"]
+description = "Pre-nerf SRAW"
+repository = "https://github.com/skulls-dot-codes/wr_sraw_mod.git"
+tags = ["official", "wr"]
+
+[dependencies]
+partitions = "0.1.0"
